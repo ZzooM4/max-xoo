@@ -1,4 +1,4 @@
-### What to say 😡?
+### What to say 🤓?
 
 I'm French, and at the moment I really like javascript 😅! So I do things with it. Can you follow me? I want to become a star 🤣😂!
 
