@@ -8,3 +8,4 @@ I'm French, and at the moment I really like javascript 😅! So I do things with
 And star my projets (any good projets 😞😔)
 
 [![Active](https://github-readme-stats.vercel.app/api?username=max-xoo&show_icons=true&theme=dark&count_private=true)](https://www.github.com/max-xoo)
+&hide=prs,issues
