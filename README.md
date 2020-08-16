@@ -2,8 +2,9 @@
 
 I'm French, and at the moment I really like javascript 😅! So I do things with it. Can you follow me? I want to be famous 🤣😂!
 
-Find me [[here](https://discord.gg/9nwAaVg)],
-Or add my bot [[here](https://discord.com/api/oauth2/authorize?client_id=736337773308542977&permissions=1074129985&scope=bot)] :)
+[![Active](https://img.shields.io/badge/Langages-Js%20/%20Php%20/%20Htm%20/%20Css-red?style=flat-square)](https://www.github.com/max-xoo)
+[![Active](https://img.shields.io/badge/Discord-Click%20here-green?style=flat-square&logo=discord)](https://discord.gg/E2TBnQq)
+[![Active](https://img.shields.io/badge/Website-Click%20-blue?style=flat-square)](http://max-xoo.github.io/)
 
 ![alt text][logo]
 
