@@ -7,5 +7,4 @@
 I'm French, and at the moment I really like javascript 😅! So I do things with it. Can you follow me? I want to be famous 🤣😂!
 And star my projets (any good projets 😞😔)
 
-[![Active](https://github-readme-stats.vercel.app/api?username=max-xoo&show_icons=true&theme=dark&count_private=true)](https://www.github.com/max-xoo)
-&hide=prs,issues
+[![Active](https://github-readme-stats.vercel.app/api?username=max-xoo&show_icons=true&theme=dark&count_private=true&hide=prs,issues)](https://www.github.com/max-xoo)
