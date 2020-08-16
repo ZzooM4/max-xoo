@@ -3,6 +3,8 @@
 [![Active](https://img.shields.io/badge/Website-CLICK%20-blue?style=flat-square)](http://max-xoo.github.io/)
 
 ### What to say 🤔?
+
 I'm French, and at the moment I really like javascript 😅! So I do things with it. Can you follow me? I want to be famous 🤣😂!
+And star my projets (any good projets 😞😔)
 
 [![Active](https://github-readme-stats.vercel.app/api?username=max-xoo&show_icons=true&theme=dark)](https://www.github.com/max-xoo)
