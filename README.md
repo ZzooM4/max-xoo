@@ -5,7 +5,3 @@ I'm French, and at the moment I really like javascript 😅! So I do things with
 [![Active](https://img.shields.io/badge/Langages-Js%20/%20Php%20/%20Htm%20/%20Css-red?style=flat-square)](https://www.github.com/max-xoo)
 [![Active](https://img.shields.io/badge/Discord-Click%20here-green?style=flat-square&logo=discord)](https://discord.gg/E2TBnQq)
 [![Active](https://img.shields.io/badge/Website-Click%20-blue?style=flat-square)](http://max-xoo.github.io/)
-
-# ![alt text][logo]
-
-# [logo]: https://github.com/Max-xoo/max-xoo/blob/master/challenge.png "You are really beautiful you know?"
